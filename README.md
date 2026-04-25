@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Zikun Su
 
-<!--
-**shuzi1024/shuzi1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Student at Beijing University of Posts and Telecommunications
 
-Here are some ideas to get you started:
+## About Me
+I am currently a master's student at Beijing University of Posts and Telecommunications.  
+My research interests include natural language processing, large language models, semantics, and multilingual NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Semantics
+- Multilingual NLP
+
+## Contact
+- Email: 1032085955@qq.com
