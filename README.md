@@ -13,4 +13,4 @@ My research interests include natural language processing, large language models
 - Multilingual NLP
 
 ## Contact
-- Email: 1032085955@qq.com
+- Email: buptcs_szk@bupt.edu.cn
